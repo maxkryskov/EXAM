@@ -1,0 +1,7 @@
+Food
+Restaurants
+Transport
+Utilities
+Internet
+Shopping
+Other
