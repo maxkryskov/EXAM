@@ -118,3 +118,81 @@ Top 3 categories this month:
   Food - 2950.000000
 ===== End of report =====
 
+===== Report for reference date: 2025-11-29 =====
+Day expenses: 0.000000
+Week expenses: 19950.990000
+Month expenses: 24450.990000
+
+Top 3 transactions this week:
+  15000.000000 - Credit: Transfer - transfer to my father (2025-11-27)
+  3950.990000 - Debit: Games -  (2025-11-25)
+  1000.000000 - Debit: Transport -  (2025-11-27)
+
+Top 3 transactions this month:
+  15000.000000 - Credit: Transfer - transfer to my father (2025-11-27)
+  3950.990000 - Debit: Games -  (2025-11-25)
+  2950.000000 - Debit: Food -  (2025-11-20)
+
+Top 3 categories this week:
+  Transfer - 15000.000000
+  Games - 3950.990000
+  Transport - 1000.000000
+
+Top 3 categories this month:
+  Transfer - 15000.000000
+  Games - 3950.990000
+  Food - 2950.000000
+===== End of report =====
+
+===== Report for reference date: 2025-11-29 =====
+Day expenses: 10000.000000
+Week expenses: 29950.990000
+Month expenses: 34450.990000
+
+Top 3 transactions this week:
+  15000.000000 - Credit: Transfer - transfer to my father (2025-11-27)
+  10000.000000 - Debit: Shopping -  (2025-11-29)
+  3950.990000 - Debit: Games -  (2025-11-25)
+
+Top 3 transactions this month:
+  15000.000000 - Credit: Transfer - transfer to my father (2025-11-27)
+  10000.000000 - Debit: Shopping -  (2025-11-29)
+  3950.990000 - Debit: Games -  (2025-11-25)
+
+Top 3 categories this week:
+  Transfer - 15000.000000
+  Shopping - 10000.000000
+  Games - 3950.990000
+
+Top 3 categories this month:
+  Transfer - 15000.000000
+  Shopping - 10000.000000
+  Games - 3950.990000
+===== End of report =====
+
+===== Report for reference date: 2025-11-29 =====
+Day expenses: 11100.000000
+Week expenses: 31050.990000
+Month expenses: 35550.990000
+
+Top 3 transactions this week:
+  15000.000000 - Credit: Transfer - transfer to my father (2025-11-27)
+  10000.000000 - Debit: Shopping -  (2025-11-29)
+  3950.990000 - Debit: Games -  (2025-11-25)
+
+Top 3 transactions this month:
+  15000.000000 - Credit: Transfer - transfer to my father (2025-11-27)
+  10000.000000 - Debit: Shopping -  (2025-11-29)
+  3950.990000 - Debit: Games -  (2025-11-25)
+
+Top 3 categories this week:
+  Transfer - 15000.000000
+  Shopping - 10000.000000
+  Games - 3950.990000
+
+Top 3 categories this month:
+  Transfer - 15000.000000
+  Shopping - 10000.000000
+  Games - 3950.990000
+===== End of report =====
+

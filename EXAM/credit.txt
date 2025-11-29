@@ -1,5 +1,5 @@
 Credit
-2
+4
 2025-11-27
 15000
 1
@@ -9,4 +9,14 @@ transfer to my father
 1550
 1
 Restaurants
+
+2025-11-29
+1000
+0
+Income
+
+2025-11-29
+100
+1
+Transport
 
